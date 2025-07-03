@@ -58,7 +58,7 @@ def crop_images_center_format(json_file, image_file, output_folder):
         cropped_image = image[y1:y2, x1:x2]
         
         # Tạo tên file output
-        filename = f"{label}_{box_id}.jpg"
+        filename = f"{label}_{idx}_{box_id}.jpg"
         output_path = os.path.join(output_folder, filename)
         
         # Lưu ảnh đã cắt
@@ -86,7 +86,7 @@ def visualize_bounding_boxes_center(json_file, image_file, output_file="data/int
     image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
     
     # Vẽ bounding boxes
-    for box in data['boxes']:
+    for idx, box in enumerate(data['boxes']):
         cx = float(box['x'])  # Tâm x
         cy = float(box['y'])  # Tâm y
         width = float(box['width'])
@@ -105,7 +105,7 @@ def visualize_bounding_boxes_center(json_file, image_file, output_file="data/int
         cv2.circle(image_rgb, (int(cx), int(cy)), 3, (255, 0, 0), -1)
         
         # Thêm label
-        label = f"{box['label']}_{box['id']}"
+        label = f"{box['label']}_{idx}_{box['id']}"
         cv2.putText(image_rgb, label, (x1, y1 - 5), cv2.FONT_HERSHEY_SIMPLEX, 0.4, (0, 255, 0), 1)
     
     # Chuyển lại sang BGR và lưu
