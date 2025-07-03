@@ -1,0 +1,1753 @@
+{
+    "boxes": [
+        {
+            "id": "1",
+            "label": "tong_sigma",
+            "x": "116.99",
+            "y": "99.63",
+            "width": "196.49",
+            "height": "124.28",
+            "confidence": null
+        },
+        {
+            "id": "2",
+            "label": "tong_sigma",
+            "x": "318.34",
+            "y": "102.06",
+            "width": "121.50",
+            "height": "133.30",
+            "confidence": null
+        },
+        {
+            "id": "3",
+            "label": "tong_sigma",
+            "x": "563.07",
+            "y": "95.12",
+            "width": "123.58",
+            "height": "122.20",
+            "confidence": null
+        },
+        {
+            "id": "4",
+            "label": "tong_sigma",
+            "x": "750.53",
+            "y": "91.30",
+            "width": "159.69",
+            "height": "115.95",
+            "confidence": null
+        },
+        {
+            "id": "5",
+            "label": "tong_sigma",
+            "x": "958.48",
+            "y": "81.58",
+            "width": "93.73",
+            "height": "104.84",
+            "confidence": null
+        },
+        {
+            "id": "6",
+            "label": "tong_sigma",
+            "x": "1120.94",
+            "y": "79.15",
+            "width": "168.71",
+            "height": "108.31",
+            "confidence": null
+        },
+        {
+            "id": "7",
+            "label": "tong_sigma",
+            "x": "130.87",
+            "y": "244.74",
+            "width": "131.22",
+            "height": "121.50",
+            "confidence": null
+        },
+        {
+            "id": "8",
+            "label": "tong_sigma",
+            "x": "290.22",
+            "y": "247.86",
+            "width": "126.36",
+            "height": "105.53",
+            "confidence": null
+        },
+        {
+            "id": "9",
+            "label": "tong_sigma",
+            "x": "429.77",
+            "y": "225.99",
+            "width": "87.48",
+            "height": "89.56",
+            "confidence": null
+        },
+        {
+            "id": "A",
+            "label": "tong_sigma",
+            "x": "569.67",
+            "y": "251.34",
+            "width": "120.11",
+            "height": "126.36",
+            "confidence": null
+        },
+        {
+            "id": "B",
+            "label": "tong_sigma",
+            "x": "720.33",
+            "y": "246.82",
+            "width": "79.84",
+            "height": "125.67",
+            "confidence": null
+        },
+        {
+            "id": "C",
+            "label": "tong_sigma",
+            "x": "833.85",
+            "y": "255.85",
+            "width": "111.09",
+            "height": "150.66",
+            "confidence": null
+        },
+        {
+            "id": "D",
+            "label": "tong_sigma",
+            "x": "1017.49",
+            "y": "298.20",
+            "width": "310.35",
+            "height": "295.08",
+            "confidence": null
+        },
+        {
+            "id": "E",
+            "label": "tong_sigma",
+            "x": "282.23",
+            "y": "454.07",
+            "width": "178.43",
+            "height": "176.35",
+            "confidence": null
+        },
+        {
+            "id": "F",
+            "label": "tong_sigma",
+            "x": "577.65",
+            "y": "448.86",
+            "width": "233.28",
+            "height": "138.17",
+            "confidence": null
+        },
+        {
+            "id": "G",
+            "label": "tong_sigma",
+            "x": "569.67",
+            "y": "591.54",
+            "width": "171.49",
+            "height": "126.36",
+            "confidence": null
+        },
+        {
+            "id": "H",
+            "label": "tong_sigma",
+            "x": "242.66",
+            "y": "605.77",
+            "width": "147.89",
+            "height": "90.95",
+            "confidence": null
+        },
+        {
+            "id": "I",
+            "label": "tong_sigma",
+            "x": "203.08",
+            "y": "734.22",
+            "width": "225.65",
+            "height": "154.83",
+            "confidence": null
+        },
+        {
+            "id": "J",
+            "label": "tong_sigma",
+            "x": "539.12",
+            "y": "730.40",
+            "width": "227.04",
+            "height": "118.03",
+            "confidence": null
+        },
+        {
+            "id": "K",
+            "label": "tong_sigma",
+            "x": "569.32",
+            "y": "842.88",
+            "width": "168.02",
+            "height": "91.65",
+            "confidence": null
+        },
+        {
+            "id": "L",
+            "label": "tong_sigma",
+            "x": "232.24",
+            "y": "859.54",
+            "width": "195.10",
+            "height": "91.65",
+            "confidence": null
+        },
+        {
+            "id": "M",
+            "label": "tong_sigma",
+            "x": "246.82",
+            "y": "992.50",
+            "width": "246.48",
+            "height": "142.33",
+            "confidence": null
+        },
+        {
+            "id": "N",
+            "label": "tong_sigma",
+            "x": "545.02",
+            "y": "981.04",
+            "width": "204.12",
+            "height": "137.47",
+            "confidence": null
+        },
+        {
+            "id": "O",
+            "label": "tong_sigma",
+            "x": "601.26",
+            "y": "1097.34",
+            "width": "197.18",
+            "height": "90.95",
+            "confidence": null
+        },
+        {
+            "id": "P",
+            "label": "tong_sigma",
+            "x": "240.23",
+            "y": "1131.36",
+            "width": "213.84",
+            "height": "120.11",
+            "confidence": null
+        },
+        {
+            "id": "Q",
+            "label": "tong_sigma",
+            "x": "581.82",
+            "y": "1227.17",
+            "width": "191.63",
+            "height": "103.45",
+            "confidence": null
+        },
+        {
+            "id": "R",
+            "label": "tong_sigma",
+            "x": "254.11",
+            "y": "1248.00",
+            "width": "184.68",
+            "height": "107.62",
+            "confidence": null
+        },
+        {
+            "id": "S",
+            "label": "tong_sigma",
+            "x": "240.57",
+            "y": "1361.52",
+            "width": "158.99",
+            "height": "105.53",
+            "confidence": null
+        },
+        {
+            "id": "T",
+            "label": "tong_sigma",
+            "x": "571.75",
+            "y": "1458.37",
+            "width": "170.10",
+            "height": "129.83",
+            "confidence": null
+        },
+        {
+            "id": "U",
+            "label": "tong_sigma",
+            "x": "598.83",
+            "y": "1348.32",
+            "width": "202.04",
+            "height": "102.76",
+            "confidence": null
+        },
+        {
+            "id": "V",
+            "label": "tong_sigma",
+            "x": "239.88",
+            "y": "1484.41",
+            "width": "220.09",
+            "height": "111.09",
+            "confidence": null
+        },
+        {
+            "id": "W",
+            "label": "tong_sigma",
+            "x": "546.41",
+            "y": "1587.51",
+            "width": "131.92",
+            "height": "96.51",
+            "confidence": null
+        },
+        {
+            "id": "X",
+            "label": "tong_sigma",
+            "x": "219.05",
+            "y": "1595.84",
+            "width": "221.48",
+            "height": "100.67",
+            "confidence": null
+        },
+        {
+            "id": "Y",
+            "label": "tong_sigma",
+            "x": "218.01",
+            "y": "1708.32",
+            "width": "184.68",
+            "height": "109.00",
+            "confidence": null
+        },
+        {
+            "id": "Z",
+            "label": "tong_sigma",
+            "x": "442.61",
+            "y": "1707.28",
+            "width": "145.11",
+            "height": "97.20",
+            "confidence": null
+        },
+        {
+            "id": "a",
+            "label": "tong_sigma",
+            "x": "650.90",
+            "y": "1697.56",
+            "width": "121.50",
+            "height": "98.59",
+            "confidence": null
+        },
+        {
+            "id": "b",
+            "label": "tong_sigma",
+            "x": "208.98",
+            "y": "1827.04",
+            "width": "180.52",
+            "height": "109.00",
+            "confidence": null
+        },
+        {
+            "id": "c",
+            "label": "tong_sigma",
+            "x": "450.95",
+            "y": "1814.89",
+            "width": "152.05",
+            "height": "106.92",
+            "confidence": null
+        },
+        {
+            "id": "d",
+            "label": "tong_sigma",
+            "x": "644.31",
+            "y": "1799.62",
+            "width": "140.25",
+            "height": "74.98",
+            "confidence": null
+        },
+        {
+            "id": "e",
+            "label": "tong_sigma",
+            "x": "488.44",
+            "y": "1943.34",
+            "width": "158.99",
+            "height": "98.59",
+            "confidence": null
+        },
+        {
+            "id": "f",
+            "label": "tong_sigma",
+            "x": "632.50",
+            "y": "1924.59",
+            "width": "130.53",
+            "height": "109.70",
+            "confidence": null
+        },
+        {
+            "id": "g",
+            "label": "tong_sigma",
+            "x": "206.90",
+            "y": "1940.21",
+            "width": "198.57",
+            "height": "102.06",
+            "confidence": null
+        },
+        {
+            "id": "h",
+            "label": "tong_sigma",
+            "x": "432.20",
+            "y": "2023.18",
+            "width": "154.83",
+            "height": "79.15",
+            "confidence": null
+        },
+        {
+            "id": "i",
+            "label": "tong_sigma",
+            "x": "656.80",
+            "y": "2009.99",
+            "width": "123.58",
+            "height": "58.32",
+            "confidence": null
+        },
+        {
+            "id": "j",
+            "label": "tong_sigma",
+            "x": "213.15",
+            "y": "2034.98",
+            "width": "165.24",
+            "height": "84.70",
+            "confidence": null
+        },
+        {
+            "id": "k",
+            "label": "tong_sigma",
+            "x": "256.20",
+            "y": "2131.14",
+            "width": "140.25",
+            "height": "82.62",
+            "confidence": null
+        },
+        {
+            "id": "l",
+            "label": "tong_sigma",
+            "x": "459.97",
+            "y": "2118.65",
+            "width": "218.70",
+            "height": "72.90",
+            "confidence": null
+        },
+        {
+            "id": "m",
+            "label": "tong_sigma",
+            "x": "658.89",
+            "y": "2100.25",
+            "width": "127.75",
+            "height": "62.49",
+            "confidence": null
+        },
+        {
+            "id": "n",
+            "label": "tong_sigma",
+            "x": "659.23",
+            "y": "2176.27",
+            "width": "89.56",
+            "height": "60.40",
+            "confidence": null
+        },
+        {
+            "id": "o",
+            "label": "tong_sigma",
+            "x": "396.10",
+            "y": "2191.20",
+            "width": "56.24",
+            "height": "44.43",
+            "confidence": null
+        },
+        {
+            "id": "p",
+            "label": "tong_sigma",
+            "x": "193.01",
+            "y": "2195.02",
+            "width": "170.80",
+            "height": "56.24",
+            "confidence": null
+        },
+        {
+            "id": "q",
+            "label": "tong_sigma",
+            "x": "235.37",
+            "y": "2274.86",
+            "width": "120.81",
+            "height": "79.84",
+            "confidence": null
+        },
+        {
+            "id": "r",
+            "label": "tong_sigma",
+            "x": "396.10",
+            "y": "2259.24",
+            "width": "153.44",
+            "height": "76.37",
+            "confidence": null
+        },
+        {
+            "id": "s",
+            "label": "tong_sigma",
+            "x": "607.86",
+            "y": "2259.94",
+            "width": "206.21",
+            "height": "87.48",
+            "confidence": null
+        },
+        {
+            "id": "t",
+            "label": "tong_sigma",
+            "x": "426.30",
+            "y": "2341.52",
+            "width": "151.36",
+            "height": "56.24",
+            "confidence": null
+        },
+        {
+            "id": "u",
+            "label": "tong_sigma",
+            "x": "606.12",
+            "y": "2347.42",
+            "width": "123.58",
+            "height": "52.77",
+            "confidence": null
+        },
+        {
+            "id": "v",
+            "label": "tong_sigma",
+            "x": "228.08",
+            "y": "2349.50",
+            "width": "182.60",
+            "height": "72.21",
+            "confidence": null
+        },
+        {
+            "id": "w",
+            "label": "tong_sigma",
+            "x": "267.65",
+            "y": "2435.59",
+            "width": "170.10",
+            "height": "79.15",
+            "confidence": null
+        },
+        {
+            "id": "x",
+            "label": "tong_sigma",
+            "x": "456.15",
+            "y": "2413.38",
+            "width": "108.31",
+            "height": "59.71",
+            "confidence": null
+        },
+        {
+            "id": "y",
+            "label": "tong_sigma",
+            "x": "621.40",
+            "y": "2420.67",
+            "width": "106.92",
+            "height": "65.96",
+            "confidence": null
+        },
+        {
+            "id": "z",
+            "label": "tong_sigma",
+            "x": "237.45",
+            "y": "2526.89",
+            "width": "140.25",
+            "height": "96.51",
+            "confidence": null
+        },
+        {
+            "id": "11",
+            "label": "tong_sigma",
+            "x": "458.93",
+            "y": "2506.06",
+            "width": "133.30",
+            "height": "61.79",
+            "confidence": null
+        },
+        {
+            "id": "12",
+            "label": "tong_sigma",
+            "x": "693.60",
+            "y": "2494.26",
+            "width": "115.25",
+            "height": "36.80",
+            "confidence": null
+        },
+        {
+            "id": "13",
+            "label": "tong_sigma",
+            "x": "233.98",
+            "y": "2604.31",
+            "width": "158.30",
+            "height": "56.93",
+            "confidence": null
+        },
+        {
+            "id": "14",
+            "label": "tong_sigma",
+            "x": "513.43",
+            "y": "2596.67",
+            "width": "118.72",
+            "height": "76.37",
+            "confidence": null
+        },
+        {
+            "id": "15",
+            "label": "tong_sigma",
+            "x": "679.37",
+            "y": "2599.10",
+            "width": "97.90",
+            "height": "74.29",
+            "confidence": null
+        },
+        {
+            "id": "16",
+            "label": "tong_sigma",
+            "x": "243.00",
+            "y": "2696.30",
+            "width": "129.14",
+            "height": "86.79",
+            "confidence": null
+        },
+        {
+            "id": "17",
+            "label": "tong_sigma",
+            "x": "492.95",
+            "y": "2705.33",
+            "width": "161.08",
+            "height": "115.95",
+            "confidence": null
+        },
+        {
+            "id": "18",
+            "label": "tong_sigma",
+            "x": "726.93",
+            "y": "2710.88",
+            "width": "161.08",
+            "height": "110.39",
+            "confidence": null
+        },
+        {
+            "id": "19",
+            "label": "tong_sigma",
+            "x": "609.59",
+            "y": "2798.36",
+            "width": "81.93",
+            "height": "82.62",
+            "confidence": null
+        },
+        {
+            "id": "1A",
+            "label": "tong_sigma",
+            "x": "238.49",
+            "y": "2799.40",
+            "width": "90.95",
+            "height": "66.65",
+            "confidence": null
+        },
+        {
+            "id": "1B",
+            "label": "tong_sigma",
+            "x": "384.64",
+            "y": "2823.01",
+            "width": "137.47",
+            "height": "72.21",
+            "confidence": null
+        },
+        {
+            "id": "1C",
+            "label": "tong_sigma",
+            "x": "244.74",
+            "y": "2898.69",
+            "width": "99.28",
+            "height": "93.04",
+            "confidence": null
+        },
+        {
+            "id": "1D",
+            "label": "tong_sigma",
+            "x": "374.23",
+            "y": "2910.49",
+            "width": "97.20",
+            "height": "54.16",
+            "confidence": null
+        },
+        {
+            "id": "1E",
+            "label": "tong_sigma",
+            "x": "550.58",
+            "y": "2911.19",
+            "width": "76.37",
+            "height": "56.93",
+            "confidence": null
+        },
+        {
+            "id": "1F",
+            "label": "tong_sigma",
+            "x": "680.76",
+            "y": "2902.85",
+            "width": "74.29",
+            "height": "59.71",
+            "confidence": null
+        },
+        {
+            "id": "1G",
+            "label": "tong_sigma",
+            "x": "251.68",
+            "y": "2976.10",
+            "width": "113.17",
+            "height": "56.24",
+            "confidence": null
+        },
+        {
+            "id": "1H",
+            "label": "tong_sigma",
+            "x": "408.59",
+            "y": "2976.45",
+            "width": "109.00",
+            "height": "58.32",
+            "confidence": null
+        },
+        {
+            "id": "1I",
+            "label": "tong_sigma",
+            "x": "519.33",
+            "y": "2989.64",
+            "width": "74.98",
+            "height": "62.49",
+            "confidence": null
+        },
+        {
+            "id": "1J",
+            "label": "tong_sigma",
+            "x": "605.08",
+            "y": "2990.34",
+            "width": "89.56",
+            "height": "49.99",
+            "confidence": null
+        },
+        {
+            "id": "1K",
+            "label": "tong_sigma",
+            "x": "488.78",
+            "y": "3110.45",
+            "width": "87.48",
+            "height": "109.70",
+            "confidence": null
+        },
+        {
+            "id": "1L",
+            "label": "tong_sigma",
+            "x": "229.12",
+            "y": "3115.66",
+            "width": "101.37",
+            "height": "124.28",
+            "confidence": null
+        },
+        {
+            "id": "1M",
+            "label": "tong_sigma",
+            "x": "639.45",
+            "y": "3104.20",
+            "width": "101.37",
+            "height": "104.14",
+            "confidence": null
+        },
+        {
+            "id": "1N",
+            "label": "tong_sigma",
+            "x": "598.14",
+            "y": "3236.76",
+            "width": "113.17",
+            "height": "140.14",
+            "confidence": null
+        },
+        {
+            "id": "1O",
+            "label": "tong_sigma",
+            "x": "405.47",
+            "y": "3242.95",
+            "width": "106.92",
+            "height": "105.53",
+            "confidence": null
+        },
+        {
+            "id": "1P",
+            "label": "tong_sigma",
+            "x": "238.49",
+            "y": "3232.19",
+            "width": "147.89",
+            "height": "102.06",
+            "confidence": null
+        },
+        {
+            "id": "1Q",
+            "label": "tong_sigma",
+            "x": "261.75",
+            "y": "3387.13",
+            "width": "98.59",
+            "height": "67.35",
+            "confidence": null
+        },
+        {
+            "id": "1R",
+            "label": "tong_sigma",
+            "x": "534.26",
+            "y": "3426.01",
+            "width": "189.54",
+            "height": "145.11",
+            "confidence": null
+        },
+        {
+            "id": "1S",
+            "label": "tong_sigma",
+            "x": "255.85",
+            "y": "3463.50",
+            "width": "154.83",
+            "height": "92.34",
+            "confidence": null
+        },
+        {
+            "id": "1T",
+            "label": "tong_sigma",
+            "x": "530.10",
+            "y": "3567.30",
+            "width": "164.55",
+            "height": "140.25",
+            "confidence": null
+        },
+        {
+            "id": "1U",
+            "label": "tong_sigma",
+            "x": "268.00",
+            "y": "3587.08",
+            "width": "143.03",
+            "height": "97.90",
+            "confidence": null
+        },
+        {
+            "id": "1V",
+            "label": "tong_sigma",
+            "x": "249.25",
+            "y": "3731.85",
+            "width": "156.91",
+            "height": "112.48",
+            "confidence": null
+        },
+        {
+            "id": "1W",
+            "label": "tong_sigma",
+            "x": "473.51",
+            "y": "3734.28",
+            "width": "144.41",
+            "height": "103.45",
+            "confidence": null
+        },
+        {
+            "id": "1X",
+            "label": "tong_sigma",
+            "x": "653.68",
+            "y": "3759.62",
+            "width": "110.39",
+            "height": "91.65",
+            "confidence": null
+        },
+        {
+            "id": "1Y",
+            "label": "tong_sigma",
+            "x": "238.84",
+            "y": "3874.87",
+            "width": "166.63",
+            "height": "105.53",
+            "confidence": null
+        },
+        {
+            "id": "1Z",
+            "label": "tong_sigma",
+            "x": "459.28",
+            "y": "3890.15",
+            "width": "109.00",
+            "height": "95.81",
+            "confidence": null
+        },
+        {
+            "id": "1a",
+            "label": "tong_sigma",
+            "x": "582.86",
+            "y": "3885.98",
+            "width": "88.18",
+            "height": "99.98",
+            "confidence": null
+        },
+        {
+            "id": "1b",
+            "label": "tong_sigma",
+            "x": "721.37",
+            "y": "3879.73",
+            "width": "102.76",
+            "height": "124.97",
+            "confidence": null
+        },
+        {
+            "id": "1c",
+            "label": "tong_sigma",
+            "x": "1340.74",
+            "y": "85.47",
+            "width": "138.88",
+            "height": "102.08",
+            "confidence": null
+        },
+        {
+            "id": "1d",
+            "label": "tong_sigma",
+            "x": "1512.86",
+            "y": "74.19",
+            "width": "186.36",
+            "height": "93.77",
+            "confidence": null
+        },
+        {
+            "id": "1e",
+            "label": "tong_sigma",
+            "x": "1750.85",
+            "y": "75.38",
+            "width": "130.57",
+            "height": "127.01",
+            "confidence": null
+        },
+        {
+            "id": "1f",
+            "label": "tong_sigma",
+            "x": "1903.98",
+            "y": "77.16",
+            "width": "104.46",
+            "height": "111.58",
+            "confidence": null
+        },
+        {
+            "id": "1g",
+            "label": "tong_sigma",
+            "x": "2033.96",
+            "y": "66.47",
+            "width": "103.27",
+            "height": "109.21",
+            "confidence": null
+        },
+        {
+            "id": "1h",
+            "label": "tong_sigma",
+            "x": "2217.35",
+            "y": "72.41",
+            "width": "173.30",
+            "height": "144.82",
+            "confidence": null
+        },
+        {
+            "id": "1i",
+            "label": "tong_sigma",
+            "x": "2401.93",
+            "y": "79.53",
+            "width": "221.97",
+            "height": "137.69",
+            "confidence": null
+        },
+        {
+            "id": "1j",
+            "label": "tong_sigma",
+            "x": "1508.70",
+            "y": "313.37",
+            "width": "486.68",
+            "height": "327.62",
+            "confidence": null
+        },
+        {
+            "id": "1k",
+            "label": "tong_sigma",
+            "x": "2090.34",
+            "y": "329.99",
+            "width": "579.27",
+            "height": "358.48",
+            "confidence": null
+        },
+        {
+            "id": "1l",
+            "label": "tong_sigma",
+            "x": "1484.37",
+            "y": "751.98",
+            "width": "509.23",
+            "height": "402.40",
+            "confidence": null
+        },
+        {
+            "id": "1m",
+            "label": "tong_sigma",
+            "x": "2233.97",
+            "y": "681.35",
+            "width": "496.17",
+            "height": "334.74",
+            "confidence": null
+        },
+        {
+            "id": "1n",
+            "label": "tong_sigma",
+            "x": "2838.16",
+            "y": "231.47",
+            "width": "550.78",
+            "height": "436.82",
+            "confidence": null
+        },
+        {
+            "id": "1o",
+            "label": "tong_sigma",
+            "x": "3055.39",
+            "y": "639.80",
+            "width": "543.65",
+            "height": "265.89",
+            "confidence": null
+        },
+        {
+            "id": "1p",
+            "label": "tong_sigma",
+            "x": "1384.06",
+            "y": "1134.79",
+            "width": "546.03",
+            "height": "367.98",
+            "confidence": null
+        },
+        {
+            "id": "1q",
+            "label": "tong_sigma",
+            "x": "2140.20",
+            "y": "1112.24",
+            "width": "301.50",
+            "height": "358.48",
+            "confidence": null
+        },
+        {
+            "id": "1r",
+            "label": "tong_sigma",
+            "x": "2832.82",
+            "y": "1117.58",
+            "width": "404.77",
+            "height": "404.77",
+            "confidence": null
+        },
+        {
+            "id": "1s",
+            "label": "tong_sigma",
+            "x": "1525.32",
+            "y": "1585.86",
+            "width": "498.55",
+            "height": "413.08",
+            "confidence": null
+        },
+        {
+            "id": "1t",
+            "label": "tong_sigma",
+            "x": "2045.83",
+            "y": "1569.83",
+            "width": "421.39",
+            "height": "295.57",
+            "confidence": null
+        },
+        {
+            "id": "1u",
+            "label": "tong_sigma",
+            "x": "2423.89",
+            "y": "1547.28",
+            "width": "299.13",
+            "height": "319.31",
+            "confidence": null
+        },
+        {
+            "id": "1v",
+            "label": "tong_sigma",
+            "x": "2469.59",
+            "y": "1860.06",
+            "width": "267.08",
+            "height": "282.51",
+            "confidence": null
+        },
+        {
+            "id": "1w",
+            "label": "tong_sigma",
+            "x": "1995.38",
+            "y": "1863.03",
+            "width": "301.50",
+            "height": "278.95",
+            "confidence": null
+        },
+        {
+            "id": "1x",
+            "label": "tong_sigma",
+            "x": "1941.96",
+            "y": "2139.60",
+            "width": "337.11",
+            "height": "312.19",
+            "confidence": null
+        },
+        {
+            "id": "1y",
+            "label": "tong_sigma",
+            "x": "2411.43",
+            "y": "2143.42",
+            "width": "321.68",
+            "height": "267.60",
+            "confidence": null
+        },
+        {
+            "id": "1z",
+            "label": "tong_sigma",
+            "x": "1927.72",
+            "y": "2424.49",
+            "width": "365.60",
+            "height": "233.84",
+            "confidence": null
+        },
+        {
+            "id": "21",
+            "label": "tong_sigma",
+            "x": "1902.20",
+            "y": "2627.60",
+            "width": "343.05",
+            "height": "191.37",
+            "confidence": null
+        },
+        {
+            "id": "22",
+            "label": "tong_sigma",
+            "x": "1857.69",
+            "y": "2860.98",
+            "width": "415.46",
+            "height": "239.78",
+            "confidence": null
+        },
+        {
+            "id": "23",
+            "label": "tong_sigma",
+            "x": "2434.58",
+            "y": "2424.15",
+            "width": "332.37",
+            "height": "246.90",
+            "confidence": null
+        },
+        {
+            "id": "24",
+            "label": "tong_sigma",
+            "x": "2438.14",
+            "y": "2620.61",
+            "width": "320.50",
+            "height": "186.36",
+            "confidence": null
+        },
+        {
+            "id": "25",
+            "label": "tong_sigma",
+            "x": "2524.20",
+            "y": "2846.47",
+            "width": "286.07",
+            "height": "192.30",
+            "confidence": null
+        },
+        {
+            "id": "26",
+            "label": "tong_sigma",
+            "x": "2521.23",
+            "y": "3089.22",
+            "width": "370.35",
+            "height": "207.73",
+            "confidence": null
+        },
+        {
+            "id": "27",
+            "label": "tong_sigma",
+            "x": "2510.55",
+            "y": "3305.26",
+            "width": "296.75",
+            "height": "191.11",
+            "confidence": null
+        },
+        {
+            "id": "28",
+            "label": "tong_sigma",
+            "x": "1876.08",
+            "y": "3111.18",
+            "width": "347.80",
+            "height": "211.29",
+            "confidence": null
+        },
+        {
+            "id": "29",
+            "label": "tong_sigma",
+            "x": "1851.75",
+            "y": "3318.31",
+            "width": "401.21",
+            "height": "202.98",
+            "confidence": null
+        },
+        {
+            "id": "2A",
+            "label": "tong_sigma",
+            "x": "1926.53",
+            "y": "3565.21",
+            "width": "372.72",
+            "height": "290.82",
+            "confidence": null
+        },
+        {
+            "id": "2B",
+            "label": "tong_sigma",
+            "x": "2531.32",
+            "y": "3514.76",
+            "width": "333.55",
+            "height": "170.93",
+            "confidence": null
+        },
+        {
+            "id": "2C",
+            "label": "tong_sigma",
+            "x": "1911.69",
+            "y": "3867.69",
+            "width": "262.33",
+            "height": "197.80",
+            "confidence": null
+        },
+        {
+            "id": "2D",
+            "label": "tong_sigma",
+            "x": "2479.68",
+            "y": "3875.19",
+            "width": "322.87",
+            "height": "206.54",
+            "confidence": null
+        },
+        {
+            "id": "2E",
+            "label": "tong_sigma",
+            "x": "2417.96",
+            "y": "4077.87",
+            "width": "268.27",
+            "height": "186.96",
+            "confidence": null
+        },
+        {
+            "id": "2F",
+            "label": "tong_sigma",
+            "x": "1861.84",
+            "y": "4083.51",
+            "width": "347.80",
+            "height": "180.43",
+            "confidence": null
+        },
+        {
+            "id": "2G",
+            "label": "tong_sigma",
+            "x": "3685.26",
+            "y": "204.58",
+            "width": "678.84",
+            "height": "409.16",
+            "confidence": null
+        },
+        {
+            "id": "2H",
+            "label": "tong_sigma",
+            "x": "3807.08",
+            "y": "633.27",
+            "width": "401.72",
+            "height": "269.68",
+            "confidence": null
+        },
+        {
+            "id": "2I",
+            "label": "tong_sigma",
+            "x": "4272.04",
+            "y": "561.67",
+            "width": "364.53",
+            "height": "427.76",
+            "confidence": null
+        },
+        {
+            "id": "2J",
+            "label": "tong_sigma",
+            "x": "4577.98",
+            "y": "199.00",
+            "width": "425.90",
+            "height": "345.93",
+            "confidence": null
+        },
+        {
+            "id": "2K",
+            "label": "tong_sigma",
+            "x": "3460.22",
+            "y": "1099.16",
+            "width": "306.87",
+            "height": "316.17",
+            "confidence": null
+        },
+        {
+            "id": "2L",
+            "label": "tong_sigma",
+            "x": "4086.06",
+            "y": "1094.51",
+            "width": "431.48",
+            "height": "303.15",
+            "confidence": null
+        },
+        {
+            "id": "2M",
+            "label": "tong_sigma",
+            "x": "4592.86",
+            "y": "1009.89",
+            "width": "392.43",
+            "height": "312.45",
+            "confidence": null
+        },
+        {
+            "id": "2N",
+            "label": "tong_sigma",
+            "x": "5103.38",
+            "y": "809.96",
+            "width": "342.21",
+            "height": "269.68",
+            "confidence": null
+        },
+        {
+            "id": "2O",
+            "label": "tong_sigma",
+            "x": "5070.84",
+            "y": "530.98",
+            "width": "481.70",
+            "height": "269.68",
+            "confidence": null
+        },
+        {
+            "id": "2P",
+            "label": "tong_sigma",
+            "x": "5130.35",
+            "y": "252.01",
+            "width": "433.34",
+            "height": "265.96",
+            "confidence": null
+        },
+        {
+            "id": "2Q",
+            "label": "tong_sigma",
+            "x": "5605.54",
+            "y": "291.06",
+            "width": "386.85",
+            "height": "262.24",
+            "confidence": null
+        },
+        {
+            "id": "2R",
+            "label": "tong_sigma",
+            "x": "5576.71",
+            "y": "542.14",
+            "width": "336.63",
+            "height": "206.44",
+            "confidence": null
+        },
+        {
+            "id": "2S",
+            "label": "tong_sigma",
+            "x": "5610.19",
+            "y": "796.01",
+            "width": "366.39",
+            "height": "200.86",
+            "confidence": null
+        },
+        {
+            "id": "2T",
+            "label": "tong_sigma",
+            "x": "5626.93",
+            "y": "1048.95",
+            "width": "295.71",
+            "height": "256.66",
+            "confidence": null
+        },
+        {
+            "id": "2U",
+            "label": "tong_sigma",
+            "x": "5136.86",
+            "y": "1065.68",
+            "width": "305.01",
+            "height": "260.38",
+            "confidence": null
+        },
+        {
+            "id": "2V",
+            "label": "tong_sigma",
+            "x": "4825.34",
+            "y": "1552.96",
+            "width": "816.47",
+            "height": "606.31",
+            "confidence": null
+        },
+        {
+            "id": "2W",
+            "label": "tong_sigma",
+            "x": "3314.22",
+            "y": "1541.80",
+            "width": "695.58",
+            "height": "476.12",
+            "confidence": null
+        },
+        {
+            "id": "2X",
+            "label": "tong_sigma",
+            "x": "5475.35",
+            "y": "1429.28",
+            "width": "472.40",
+            "height": "437.06",
+            "confidence": null
+        },
+        {
+            "id": "2Y",
+            "label": "tong_sigma",
+            "x": "5473.49",
+            "y": "1864.28",
+            "width": "491.00",
+            "height": "343.66",
+            "confidence": null
+        },
+        {
+            "id": "2Z",
+            "label": "tong_sigma",
+            "x": "3601.57",
+            "y": "2196.46",
+            "width": "976.41",
+            "height": "472.40",
+            "confidence": null
+        },
+        {
+            "id": "2a",
+            "label": "tong_sigma",
+            "x": "3536.47",
+            "y": "2874.37",
+            "width": "1069.40",
+            "height": "630.48",
+            "confidence": null
+        },
+        {
+            "id": "2b",
+            "label": "tong_sigma",
+            "x": "3409.08",
+            "y": "3513.93",
+            "width": "688.14",
+            "height": "481.25",
+            "confidence": null
+        },
+        {
+            "id": "2c",
+            "label": "tong_sigma",
+            "x": "3270.52",
+            "y": "3874.48",
+            "width": "470.54",
+            "height": "368.25",
+            "confidence": null
+        },
+        {
+            "id": "2d",
+            "label": "tong_sigma",
+            "x": "4681.20",
+            "y": "2168.57",
+            "width": "665.82",
+            "height": "424.04",
+            "confidence": null
+        },
+        {
+            "id": "2e",
+            "label": "tong_sigma",
+            "x": "4765.82",
+            "y": "2814.86",
+            "width": "704.88",
+            "height": "448.22",
+            "confidence": null
+        },
+        {
+            "id": "2f",
+            "label": "tong_sigma",
+            "x": "4801.16",
+            "y": "3337.47",
+            "width": "727.20",
+            "height": "570.97",
+            "confidence": null
+        },
+        {
+            "id": "2g",
+            "label": "tong_sigma",
+            "x": "4831.85",
+            "y": "3832.19",
+            "width": "829.49",
+            "height": "466.82",
+            "confidence": null
+        },
+        {
+            "id": "2h",
+            "label": "tong_sigma",
+            "x": "5548.82",
+            "y": "2217.85",
+            "width": "384.99",
+            "height": "351.51",
+            "confidence": null
+        },
+        {
+            "id": "2i",
+            "label": "tong_sigma",
+            "x": "5572.06",
+            "y": "2538.67",
+            "width": "572.83",
+            "height": "226.90",
+            "confidence": null
+        },
+        {
+            "id": "2j",
+            "label": "tong_sigma",
+            "x": "5754.33",
+            "y": "2959.93",
+            "width": "531.91",
+            "height": "440.78",
+            "confidence": null
+        },
+        {
+            "id": "2k",
+            "label": "tong_sigma",
+            "x": "5513.48",
+            "y": "3298.42",
+            "width": "511.45",
+            "height": "303.15",
+            "confidence": null
+        },
+        {
+            "id": "2l",
+            "label": "tong_sigma",
+            "x": "5452.10",
+            "y": "3668.52",
+            "width": "396.14",
+            "height": "299.43",
+            "confidence": null
+        },
+        {
+            "id": "2m",
+            "label": "tong_sigma",
+            "x": "5443.73",
+            "y": "4026.54",
+            "width": "479.84",
+            "height": "412.88",
+            "confidence": null
+        },
+        {
+            "id": "2n",
+            "label": "tong_sigma",
+            "x": "6168.14",
+            "y": "3287.26",
+            "width": "559.81",
+            "height": "318.03",
+            "confidence": null
+        },
+        {
+            "id": "2o",
+            "label": "tong_sigma",
+            "x": "6017.49",
+            "y": "3655.50",
+            "width": "433.34",
+            "height": "288.27",
+            "confidence": null
+        },
+        {
+            "id": "2p",
+            "label": "tong_sigma",
+            "x": "6050.97",
+            "y": "4002.36",
+            "width": "511.45",
+            "height": "368.25",
+            "confidence": null
+        },
+        {
+            "id": "2q",
+            "label": "tong_sigma",
+            "x": "6034.23",
+            "y": "308.73",
+            "width": "336.63",
+            "height": "238.06",
+            "confidence": null
+        },
+        {
+            "id": "2r",
+            "label": "tong_sigma",
+            "x": "6593.11",
+            "y": "317.10",
+            "width": "438.92",
+            "height": "277.12",
+            "confidence": null
+        },
+        {
+            "id": "2s",
+            "label": "tong_sigma",
+            "x": "6583.81",
+            "y": "574.69",
+            "width": "371.97",
+            "height": "197.14",
+            "confidence": null
+        },
+        {
+            "id": "2t",
+            "label": "tong_sigma",
+            "x": "6022.14",
+            "y": "572.83",
+            "width": "327.33",
+            "height": "208.30",
+            "confidence": null
+        },
+        {
+            "id": "2u",
+            "label": "tong_sigma",
+            "x": "6101.19",
+            "y": "795.08",
+            "width": "299.43",
+            "height": "158.09",
+            "confidence": null
+        },
+        {
+            "id": "2v",
+            "label": "tong_sigma",
+            "x": "6585.67",
+            "y": "782.06",
+            "width": "383.13",
+            "height": "154.37",
+            "confidence": null
+        },
+        {
+            "id": "2w",
+            "label": "tong_sigma",
+            "x": "6697.26",
+            "y": "1045.23",
+            "width": "357.09",
+            "height": "249.22",
+            "confidence": null
+        },
+        {
+            "id": "2x",
+            "label": "tong_sigma",
+            "x": "6182.09",
+            "y": "1027.56",
+            "width": "278.98",
+            "height": "251.08",
+            "confidence": null
+        },
+        {
+            "id": "2y",
+            "label": "tong_sigma",
+            "x": "6130.01",
+            "y": "1411.61",
+            "width": "383.13",
+            "height": "416.60",
+            "confidence": null
+        },
+        {
+            "id": "2z",
+            "label": "tong_sigma",
+            "x": "6689.82",
+            "y": "1433.93",
+            "width": "383.13",
+            "height": "353.37",
+            "confidence": null
+        },
+        {
+            "id": "31",
+            "label": "tong_sigma",
+            "x": "6154.19",
+            "y": "1837.52",
+            "width": "509.59",
+            "height": "327.33",
+            "confidence": null
+        },
+        {
+            "id": "32",
+            "label": "tong_sigma",
+            "x": "6865.00",
+            "y": "1865.41",
+            "width": "487.99",
+            "height": "394.28",
+            "confidence": null
+        },
+        {
+            "id": "33",
+            "label": "tong_sigma",
+            "x": "6764.22",
+            "y": "2226.22",
+            "width": "357.09",
+            "height": "264.10",
+            "confidence": null
+        },
+        {
+            "id": "34",
+            "label": "tong_sigma",
+            "x": "6230.44",
+            "y": "2255.05",
+            "width": "371.97",
+            "height": "303.15",
+            "confidence": null
+        },
+        {
+            "id": "35",
+            "label": "tong_sigma",
+            "x": "6376.44",
+            "y": "2592.61",
+            "width": "489.14",
+            "height": "245.50",
+            "confidence": null
+        },
+        {
+            "id": "36",
+            "label": "tong_sigma",
+            "x": "6901.84",
+            "y": "2571.22",
+            "width": "375.69",
+            "height": "202.72",
+            "confidence": null
+        },
+        {
+            "id": "37",
+            "label": "tong_sigma",
+            "x": "6434.10",
+            "y": "2954.35",
+            "width": "396.14",
+            "height": "299.43",
+            "confidence": null
+        },
+        {
+            "id": "38",
+            "label": "tong_sigma",
+            "x": "6889.76",
+            "y": "2925.52",
+            "width": "344.07",
+            "height": "275.26",
+            "confidence": null
+        },
+        {
+            "id": "39",
+            "label": "tong_sigma",
+            "x": "6689.82",
+            "y": "3239.83",
+            "width": "282.69",
+            "height": "260.38",
+            "confidence": null
+        },
+        {
+            "id": "3A",
+            "label": "tong_sigma",
+            "x": "6608.92",
+            "y": "3645.27",
+            "width": "649.08",
+            "height": "383.13",
+            "confidence": null
+        },
+        {
+            "id": "3B",
+            "label": "tong_sigma",
+            "x": "6567.07",
+            "y": "4003.29",
+            "width": "576.55",
+            "height": "277.12",
+            "confidence": null
+        }
+    ],
+    "height": 4246,
+    "key": "ky_hieu_tong_sigma.png",
+    "width": 7109
+}

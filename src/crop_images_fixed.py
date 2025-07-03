@@ -68,7 +68,7 @@ def crop_images_center_format(json_file, image_file, output_folder):
     
     print(f"\nHoàn thành! Đã cắt và lưu {len(data['boxes'])} ảnh vào thư mục '{output_folder}'")
 
-def visualize_bounding_boxes_center(json_file, image_file, output_file="visualization_center.jpg"):
+def visualize_bounding_boxes_center(json_file, image_file, output_file="data/interim/visualization_center.jpg"):
     """
     Vẽ các bounding box lên ảnh gốc để kiểm tra (với x,y là tâm)
     """
@@ -115,9 +115,9 @@ def visualize_bounding_boxes_center(json_file, image_file, output_file="visualiz
 
 def main():
     # Đường dẫn các file
-    json_file = "text.txt"  # File JSON chứa thông tin bounding box
-    image_file = "Untitled.png"  # File ảnh gốc
-    output_folder = "cropped_images_center"  # Thư mục lưu ảnh đã cắt
+    json_file = "data/interim/annotation_data_tong_sigma.txt"  # File JSON chứa thông tin bounding box
+    image_file = "data/raw/ky_hieu_tong_sigma.png"  # File ảnh gốc
+    output_folder = "data/processed/ky_hieu_tong_sigma_images"  # Thư mục lưu ảnh đã cắt
     
     # Vẽ visualization để kiểm tra
     visualize_bounding_boxes_center(json_file, image_file)
