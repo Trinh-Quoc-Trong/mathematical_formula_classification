@@ -25,12 +25,7 @@ models/checkpoints/
 models/best_model.pth
 
 # Generated reports
-# Bỏ qua toàn bộ thư mục báo cáo
-reports/
 
-# Generated data
-# Bỏ qua toàn bộ dữ liệu đã được xử lý và tăng cường
-data/processed/
 
 # Assets downloaded for README
 # Nếu bạn muốn giữ lại các file ảnh trong README, đừng thêm dòng dưới đây

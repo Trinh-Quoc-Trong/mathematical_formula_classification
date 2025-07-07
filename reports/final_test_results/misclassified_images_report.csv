@@ -1,0 +1,6 @@
+file_path,true_label,predicted_label
+data/processed/test\ky_hieu_tich\nhan_159_2c_aug_10.png,ky_hieu_tich,ky_hieu_tong_can
+data/processed/test\ky_hieu_tich\nhan_39_e_aug_9.png,ky_hieu_tich,ky_hieu_tong_can
+data/processed/test\ky_hieu_tich\nhan_50_p_aug_5.png,ky_hieu_tich,ky_hieu_tong_can
+data/processed/test\ky_hieu_tich\nhan_52_r_aug_8.png,ky_hieu_tich,ky_hieu_tong_can
+data/processed/test\ky_hieu_tong_can\can_bac_2_123_23_aug_3.png,ky_hieu_tong_can,ky_hieu_tich
