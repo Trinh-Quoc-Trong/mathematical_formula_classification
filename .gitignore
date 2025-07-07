@@ -1,0 +1,37 @@
+# --- Python ---
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# --- Project-specific ---
+# Model files
+# Bỏ qua tất cả các file trong thư mục checkpoints
+models/checkpoints/
+# Bỏ qua file model tốt nhất đã lưu
+models/best_model.pth
+
+# Generated reports
+# Bỏ qua toàn bộ thư mục báo cáo
+reports/
+
+# Generated data
+# Bỏ qua toàn bộ dữ liệu đã được xử lý và tăng cường
+data/processed/
+
+# Assets downloaded for README
+# Nếu bạn muốn giữ lại các file ảnh trong README, đừng thêm dòng dưới đây
+# assets/ 
