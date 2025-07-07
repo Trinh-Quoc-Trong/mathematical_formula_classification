@@ -115,9 +115,9 @@ def visualize_bounding_boxes_center(json_file, image_file, output_file="data/int
 
 def main():
     # Đường dẫn các file
-    json_file = "data/interim/annotation_data_tong_sigma.txt"  # File JSON chứa thông tin bounding box
-    image_file = "data/raw/ky_hieu_tong_sigma.png"  # File ảnh gốc
-    output_folder = "data/processed/ky_hieu_tong_sigma_images"  # Thư mục lưu ảnh đã cắt
+    json_file = "data/interim/annotation_data_tich.txt"  # File JSON chứa thông tin bounding box
+    image_file = "data/raw/ky_hieu_tich.png"  # File ảnh gốc
+    output_folder = "data/interim/ky_hieu_tich"  # Thư mục lưu ảnh đã cắt
     
     # Vẽ visualization để kiểm tra
     visualize_bounding_boxes_center(json_file, image_file)
